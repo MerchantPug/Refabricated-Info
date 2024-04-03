@@ -8,7 +8,7 @@ To also note, the Decomposition REI integration in Farmer's Delight Fabric is bu
 
 `*` means that it was introduced by Farmer's Delight 1.2.2 or above, which Farmer's Delight Fabric has not gotten upstream for.
 
-# [Addons](https://github.com/MerchantPug/Refabricated-Info/blob/main/Addons_and_Integrations.md)
+# [Addons](https://github.com/MerchantPug/Refabricated-Info/blob/main/Addons_And_Integrations.md)
 
 # Content
 | Feature | Farmer's Delight | Farmer's Delight Fabric | Farmer's Delight Refabricated |
