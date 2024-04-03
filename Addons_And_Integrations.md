@@ -39,7 +39,7 @@ The provided links through the mod names will be the Modrinth pages for each ind
 - [Cultural Delights (Fabric)](https://modrinth.com/mod/cultural-delights-fabric)
     - Same as Brewin' And Chewin' (Fabric)
 
-# Flaked
+# Unknown
 These mods have authors that are either not present, or have not responded to anybody regarding their stance on Farmer's Delight Refabricated support.
 ## Addons
 - [Cake Delight](https://modrinth.com/mod/cakedelight)
