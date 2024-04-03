@@ -7,7 +7,7 @@ The provided links through the mod names will be the Modrinth pages for each ind
 # Addons
 |Mod Name|Farmer's Delight Fabric|Farmer's Delight Refabricated|Extra Information|
 |---|---|---|---|
-|[Crate Delight](https://modrinth.com/mod/crate-delight) | Always | Always |
+|[Crate Delight](https://modrinth.com/mod/crate-delight)|Always|Always|
 |[Chef's Delight](https://modrinth.com/mod/chefs-delight)|Always|Supported through compat layer|
 |[End's Delight](https://modrinth.com/mod/ends-delight/)|Has specific FDF versions|Has specific FDRF versions|
 |[Fabric Seasons: Delight Compat](https://modrinth.com/mod/fabric-seasons-delight-compat)|Always|Supported through compat layer `*`|The developer has been contacted, but has not responded.|
