@@ -8,7 +8,7 @@ To also note, the Decomposition REI integration in Farmer's Delight Fabric is bu
 
 `*` means that it was introduced by Farmer's Delight 1.2.2 or above, which Farmer's Delight Fabric has not gotten upstream for.
 
-# [Addons](https://github.com/MerchantPug/Refabricated-Info/blob/main/Addons_And_Integrations.md)
+# [Addons/Integrations](https://github.com/MerchantPug/Refabricated-Info/blob/main/Addons_And_Integrations.md)
 
 # Content
 | Feature | Farmer's Delight | Farmer's Delight Fabric | Farmer's Delight Refabricated |
@@ -28,7 +28,7 @@ To also note, the Decomposition REI integration in Farmer's Delight Fabric is bu
 |Vanilla Recipe Book|✔|✘[`****`](https://modrinth.com/mod/recipe-book-delight)|✔|
 |JEI|✔|✘[`****`](https://www.curseforge.com/minecraft/mc-mods/farmers-delight-jei-plugin)|✔|
 |REI|✔`**`|✔|✔|
-|EMI|✔`***`|✘[`****`](https://modrinth.com/mod/emicompat)|✔|
+|EMI|✔`***`|✘[`****`](https://modrinth.com/mod/extra-mod-integrations)|✔|
 
 `** Supported through JEI compat layer on Forge`
 
